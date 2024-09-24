@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "value_node.h"
-#include "forward_functions.h"
-#include "backward_functions.h"
+#include "../inc/value_node.h"
+#include "../inc/forward_functions.h"
+#include "../inc/backward_functions.h"
 
 extern Forward_Function Functions;
 

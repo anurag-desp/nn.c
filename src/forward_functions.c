@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdlib.h>
-#include "forward_functions.h"
-#include "backward_functions.h"
+#include "../inc/forward_functions.h"
+#include "../inc/backward_functions.h"
 
 #ifndef max
 #define max(a, b)       (a > b)? a: b

@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "value_node.h"
+#include "../inc/value_node.h"
 
 void init_value_node (Value_Node **node, double data) {
     if ((*node) == NULL) {

@@ -1,5 +1,5 @@
-#include "backward_functions.h"
 #include <math.h>
+#include "../inc/backward_functions.h"
 
 void add_backward(Value_Node *node) {
     if (!node) return;
